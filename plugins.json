@@ -1,0 +1,41 @@
+[
+    {
+        "title": "Example Project 1",
+        "logo": "https://example.com/logo1.png",
+        "description": "This is the first example project.",
+        "url": "https://github.com/example/project1",
+        "home_url": "https://example.com/project1",
+        "documentation_url": "https://docs.example.com/project1",
+        "tag": [
+            "1.0.0",
+            "1.1.0",
+            "2.0.0"
+        ]
+    },
+    {
+        "title": "Example Project 2",
+        "logo": "https://example.com/logo2.png",
+        "description": "This is the second example project.",
+        "url": "https://example.com/project2.zip",
+        "home_url": "https://example.com/project2",
+        "documentation_url": "https://docs.example.com/project2",
+        "tag": [
+            "1.0.0",
+            "1.0.1",
+            "1.2.0"
+        ]
+    },
+    {
+        "title": "Example Project 3",
+        "logo": "https://example.com/logo3.png",
+        "description": "This is the third example project.",
+        "url": "https://github.com/example/project3",
+        "home_url": "https://example.com/project3",
+        "documentation_url": "https://docs.example.com/project3",
+        "tag": [
+            "0.9.0",
+            "1.0.0",
+            "1.1.0"
+        ]
+    }
+]
