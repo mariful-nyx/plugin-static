@@ -1,24 +1,25 @@
 [
     {
-        "title": "Example Project 1",
-        "logo": "https://example.com/logo1.png",
-        "description": "This is the first example project.",
-        "url": "https://github.com/example/project1",
-        "home_url": "https://example.com/project1",
-        "documentation_url": "https://docs.example.com/project1",
+        "title": "Cash on Delivery",
+        "logo": "",
+        "description": "Accept order and deliver and get paid on delivery",
+        "url_type": "GIT",
+        "url": "https://github.com/nxtbn-com/cod",
+        "home_url": "https://github.com/nxtbn-com/cod",
+        "documentation_url": "https://github.com/nxtbn-com/cod",
+        "release_api": "https://api.github.com/repos/nxtbn-com/code/releases",
         "tag": [
-            "1.0.0",
-            "1.1.0",
-            "2.0.0"
         ]
     },
     {
         "title": "Example Project 2",
         "logo": "https://example.com/logo2.png",
         "description": "This is the second example project.",
-        "url": "https://example.com/project2.zip",
+        "url_type": "GIT",
+        "url": "https://github.com/example/project2",
         "home_url": "https://example.com/project2",
         "documentation_url": "https://docs.example.com/project2",
+        "release_api": "https://github.com/example/project2/releases",
         "tag": [
             "1.0.0",
             "1.0.1",
@@ -29,9 +30,11 @@
         "title": "Example Project 3",
         "logo": "https://example.com/logo3.png",
         "description": "This is the third example project.",
+        "url_type": "GIT",
         "url": "https://github.com/example/project3",
         "home_url": "https://example.com/project3",
         "documentation_url": "https://docs.example.com/project3",
+        "release_api": "https://github.com/example/project3/releases",
         "tag": [
             "0.9.0",
             "1.0.0",
