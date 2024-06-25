@@ -8,7 +8,7 @@
         "home_url": "https://github.com/nxtbn-com/cod",
         "documentation_url": "https://github.com/nxtbn-com/cod",
         "release_api": "https://api.github.com/repos/nxtbn-com/cod/releases",
-         "plugin_type": "PAYMENT_PROCESSOR"
+         "plugin_type": "PAYMENT_PROCESSOR",
         "tag": [
         ]
     },
@@ -21,7 +21,7 @@
         "home_url": "https://github.com/nxtbn-com/stripe",
         "documentation_url": "https://github.com/nxtbn-com/stripe",
         "release_api": "https://api.github.com/repos/nxtbn-com/stripe/releases",
-        "plugin_type": "PAYMENT_PROCESSOR"
+        "plugin_type": "PAYMENT_PROCESSOR",
         "tag": [
            
         ]
